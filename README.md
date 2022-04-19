@@ -2,6 +2,8 @@
 
 *This notebook was developed for the project **"MSAI/21/017 - IMPLEMENTING A GENERAL FRAMEWORK FOR PARTICIPANT’S CONTRIBUTION CALCULATION IN FEDERATED LEARNING"**. The aim of the project is to develop a system that will test the effectiveness of profit allocation using Shapley Value in Horizontal Federated Learning systems. We recommend running this notebook in Google Colab.*
 
+**To run this program, open the `fed-sv-playground.ipynb` in any Jupyter notebook-enabled environment (We recommend Google Colab). Be advised that the program will delete .pt models from previous runs.**
+
 The system has the following customizable functions:
 
 1. Dataset
